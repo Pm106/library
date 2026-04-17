@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 28,
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 34,
+      "country": "UK"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "age": 25,
+      "country": "Brazil"
+    }
+  ]
+}
